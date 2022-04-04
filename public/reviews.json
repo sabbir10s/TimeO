@@ -4,70 +4,70 @@
       "rating": 4,
       "name": "Mejia Carr",
       "picture": "https://randomuser.me/api/portraits/men/35.jpg",
-      "review": "This is my first smartwatch ever, and I really love it! It does everything I need it to and more. The look is really clean for the black aluminum model.Other than that, this is a great product."
+      "_review": "This is my first smartwatch ever, and I really love it! It does everything I need it to and more. The look is really clean for the black aluminum model.Other than that, this is a great product."
     },
     {
       "id": "6249de4a161ea7ce7bc95df0",
       "rating": 5,
       "name": "Fulton Bridges",
       "picture": "https://randomuser.me/api/portraits/men/1.jpg",
-      "review": "If you are used to measuring your fitness goals using Fitbit, you may be happier buying another Fitbit. Fitbit's reports are much clearer to read and more easily accessible on their apps."
+      "_review": "If you are used to measuring your fitness goals using Fitbit, you may be happier buying another Fitbit. Fitbit's reports are much clearer to read and more easily accessible on their apps."
     },
     {
       "id": "6249de4a9904980bda58638b",
       "rating": 5,
       "name": "Bridgett Saunders",
-      "picture": "https://randomuser.me/api/portraits/men/78.jpghttps://randomuser.me/api/portraits/men/78.jpg",
-      "review": "I have tried watches from Samsung and Fitbit and by far the Apple Watch Series 6 is superior. I did really like the Fitbit Sense but the button on the lower left hand side drove me crazy."
+      "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+      "_review": "I have tried watches from Samsung and Fitbit and by far the Apple Watch Series 6 is superior. I did really like the Fitbit Sense but the button on the lower left hand side drove me crazy."
     },
     {
       "id": "6249de4a1b0824ffee17ad73",
       "rating": 4,
       "name": "Washington Kirkland",
       "picture": "https://randomuser.me/api/portraits/men/73.jpg",
-      "review": "Só elogios! Produto exatamente como na descrição! Original, lacrado, perfeito! Entrega super rápida,realizada um dia após a compra!"
+      "_review": "Só elogios! Produto exatamente como na descrição! Original, lacrado, perfeito! Entrega super rápida,realizada um dia após a compra!"
     },
     {
       "id": "6249de4a4c314d316df731e9",
       "rating": 4,
       "name": "Barbra Oconnor",
       "picture": "https://randomuser.me/api/portraits/men/85.jpg",
-      "review": "Como todos os produtos da Apple dispensam comentários. Produto chegou em perfeito estado e o vendedor tirou todas as dúvidas. Recomendo. ✌🏻"
+      "_review": "Como todos os produtos da Apple dispensam comentários. Produto chegou em perfeito estado e o vendedor tirou todas as dúvidas. Recomendo. ✌🏻"
     },
     {
       "id": "6249de4a810ad623b5bbe5d3",
       "rating": 4,
       "name": "Brianna Blanchard",
       "picture": "https://randomuser.me/api/portraits/men/51.jpg",
-      "review": "My doctor told me that I was having a fatty liver because my job requires me to seat a lot and I rarely workout. So, I bought this Apple watch 6 series because I thought it do much more job than my old 3 series."
+      "_review": "My doctor told me that I was having a fatty liver because my job requires me to seat a lot and I rarely workout. So, I bought this Apple watch 6 series because I thought it do much more job than my old 3 series."
     },
     {
       "id": "6249de4af80d58c8ad9f2836",
       "rating": 5,
       "name": "Rutledge Bowen",
       "picture": "https://randomuser.me/api/portraits/men/44.jpg",
-      "review": "I like it’s design and ease of use for most of the software but in many ways, it has too many features considering it doesn’t allow me to remove the ones I don’t want."
+      "_review": "I like it’s design and ease of use for most of the software but in many ways, it has too many features considering it doesn’t allow me to remove the ones I don’t want."
     },
     {
       "id": "6249de4aa5e81a1401a2a916",
       "rating": 4,
       "name": "Corinne Lara",
       "picture": "https://randomuser.me/api/portraits/men/76.jpg",
-      "review": "xyz"
+      "_review": "xyz"
     },
     {
       "id": "6249de4a9911688e3a318e15",
       "rating": 5,
       "name": "Phillips Cochran",
       "picture": "https://randomuser.me/api/portraits/men/40.jpg",
-      "review": "Originally, I thought these watches were dumb and a waste of money. I finally caved and bought one…..and I have to say that I love it. I wear it every day. I can start my truck, monitor my home security cameras, check my messages, track my workouts, and so much more. "
+      "_review": "Originally, I thought these watches were dumb and a waste of money. I finally caved and bought one…..and I have to say that I love it. I wear it every day. I can start my truck, monitor my home security cameras, check my messages, track my workouts, and so much more. "
     },
     {
       "id": "6249de4a245c2ba9c2d1b419",
       "rating": 3,
       "name": "Barr Blake",
       "picture": "https://randomuser.me/api/portraits/men/0.jpg",
-      "review": "The watch sleep tracking is a joke...I get more information from my wife. But to give you a little more information... they want you to give permission to have your iPhone listen (and probably watch) while you sleep. Not kidding."
+      "_review": "The watch sleep tracking is a joke...I get more information from my wife. But to give you a little more information... they want you to give permission to have your iPhone listen (and probably watch) while you sleep. Not kidding."
     }
    
   ]
