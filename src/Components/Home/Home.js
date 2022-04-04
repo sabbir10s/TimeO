@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReviews from '../../Hooks/useReviews';
 import SingleReview from '../SingleReview/SingleReview';
 
@@ -17,11 +18,17 @@ const Home = () => {
             </div>
 
             <div className='m-auto'>
+
                 <h2 className='text-center text-3xl font-bold my-12 py-3'>Customers Reviews ({reviews.length})</h2>
+
                 <div className='grid grid-cols-1 md:grid-cols-2 gap-7 content-center mx-10'>
                     {
                         reviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)
                     }
+                </div>
+
+                <div className='text-center  my-10 '>
+                    <Link className='text-2xl bg-black px-7 py-1 rounded-lg  text-white   hover:bg-blue-700 ' to="/reviews"> See All Reviews</Link>
                 </div>
             </div>
         </div>
