@@ -1,9 +1,13 @@
 import React from 'react';
+import MyChart from './MyChart';
+
+
 
 const Dashboard = () => {
+
     return (
-        <div>
-            <h1>This is Dashboard</h1>
+        <div className='flex justify-center mt-10'>
+            <MyChart/>
         </div>
     );
 };
