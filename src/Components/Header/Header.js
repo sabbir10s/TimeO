@@ -11,7 +11,7 @@ const Header = () => {
                         <CustomLink to="/home" className="inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-blue-700 hover:border-blue-700 ">HOME</CustomLink>
                     </li>
                     <li className="mr-2">
-                        <CustomLink to="/reviews" className="inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-blue-700 hover:border-blue-700 ">REVIEW</CustomLink>
+                        <CustomLink to="/reviews" className="inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-blue-700 hover:border-blue-700 ">REVIEWS</CustomLink>
                     </li>
                     <li className="mr-2">
                         <CustomLink to="/dashboard" className="inline-block p-4 rounded-t-lg border-b-2 border-transparent hover:text-blue-700 hover:border-blue-700 ">DASHBOARD</CustomLink>

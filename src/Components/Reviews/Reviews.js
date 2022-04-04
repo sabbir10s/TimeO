@@ -7,7 +7,7 @@ const Reviews = () => {
     return (
         <div className='m-auto'>
             <h2 className='text-center text-3xl font-bold my-2 py-3'>Customers Reviews ({reviews.length})</h2>
-            <div className='grid grid-cols-1 md:grid-cols-2 gap-7 content-center m-7'>
+            <div className='grid grid-cols-1 md:grid-cols-3 gap-7 content-center m-7'>
                 {
                     reviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)
                 }
