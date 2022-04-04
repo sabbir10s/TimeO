@@ -1,7 +1,25 @@
-import React from 'react';
+// import React, { useEffect, useState } from 'react';
 import { CartesianGrid, Line, LineChart, Pie, PieChart, Tooltip, XAxis, YAxis } from 'recharts';
 
 const MyChart = () => {
+    // const [data2, setData2] = useState({})
+
+    // useEffect(() => {
+    //     fetch('data.json')
+    //         .then(res => res.json())
+    //         .then(data => {
+    //             data.map(d => setData2(d))
+
+    //         }
+    //         )
+    // }, [])
+
+    // const data = {
+    //     sell: data2.sell,
+    //     month: data2.month
+    // }
+    // console.log(data);
+    // console.log(data.name);
     const data = [
         {
             "month": "Mar",

@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import useReviews from '../../Hooks/useReviews';
 import SingleReview from '../SingleReview/SingleReview';
+import { FaAngleDoubleRight } from 'react-icons/fa';
+import { BeakerIcon } from '@heroicons/react/solid'
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();
@@ -28,7 +30,7 @@ const Home = () => {
                 </div>
 
                 <div className='mx-10 my-10 '>
-                    <Link className='text-lg bg-black px-7 py-1 rounded  text-white   hover:bg-blue-700 ' to="/reviews"> See All Reviews</Link>
+                    <Link className='text-xl inline-block bg-black px-7 py-2 rounded  text-white   hover:bg-blue-700 ' to="/reviews"> <span>See All Reviews</span> < FaAngleDoubleRight className='w-5 inline-block' />  </Link>
                 </div>
             </div>
         </div>
@@ -36,3 +38,5 @@ const Home = () => {
 };
 
 export default Home;
+
+

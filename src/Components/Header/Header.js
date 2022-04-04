@@ -3,7 +3,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <div>
+        <div className='sticky top-0 bg-white'>
             <p className='text-center text-5xl py-2'>TimeO</p>
             <div className="text-sm font-medium text-center text-black-100 border-b border-gray-500 dark:text-gray-400 dark:border-gray-700 mb-5">
                 <ul className="flex flex-wrap justify-center -mb-px">
