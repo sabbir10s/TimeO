@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import useReviews from '../../Hooks/useReviews';
 import SingleReview from '../SingleReview/SingleReview';
 import { FaAngleDoubleRight } from 'react-icons/fa';
-import { BeakerIcon } from '@heroicons/react/solid'
+
 
 const Home = () => {
     const [reviews, setReviews] = useReviews();

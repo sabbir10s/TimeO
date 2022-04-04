@@ -1,15 +1,15 @@
-# Project: TimeO [Live Site](https://624afadfef87c400be6f12de--capable-donut-009996.netlify.app/)
+# Project: TimeO 
+## [Live Site Link](https://624b3170a2a95710c75994a5--capable-donut-009996.netlify.app/home)
 
 ## Project Description
 
-TimeO is Smart Watch Sell analysis website. Here is some information about this project.
+TimeO is a SmartWatch Sell analysis website. Here is some information about this project.
 
 - This is a Single Page Application (SPA) For this reason here I use React Router.
 - There are 5 pages in this website. You can visit any pages without reloading.
 - In this project, I use Tailwind CSS to design this website.
 - on dashboard page i use "echarts" for designing chart
 - I made a custom hook for this project.
-
 
 # Getting Started with Create React App
 

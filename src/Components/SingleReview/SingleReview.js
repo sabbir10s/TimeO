@@ -9,7 +9,7 @@ const SingleReview = ({ review }) => {
                 <img className='rounded-full w-12' src={picture} alt="Customer_Image" />
                 <p className='font-bold'>{name} </p>
             </div>
-            <p className='text-amber-600'>Rating {rating} out of 5</p>
+            <p className='text-amber-600'>Rating {rating} out of 5 </p>
             <p><small>{_review}</small></p>
         </div>
     );
