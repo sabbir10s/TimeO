@@ -2,12 +2,14 @@ import React from 'react';
 
 const SingleReview = ({ review }) => {
     // console.log(review);
-    const { name, picture, rating, _review} = review;
+    const { name, picture, rating, _review } = review;
     return (
-        <div>
-            <img src={picture} alt="Customer_Image" />
-            <p>Rating: {rating}</p>
-            <p>Name: {name}</p>
+        <div className='min-w-[300px] border p-3 shadow-lg rounded-xl'>
+            <div className='flex items-center gap-2'>
+                <img className='rounded-full w-12' src={picture} alt="Customer_Image" />
+                <p className='font-bold'>{name} </p>
+            </div>
+            <p className='text-amber-400'>Rating: {rating}</p>
             <p><small>{_review}</small></p>
         </div>
     );

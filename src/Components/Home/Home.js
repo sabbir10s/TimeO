@@ -16,11 +16,13 @@ const Home = () => {
                 </div>
             </div>
 
-            <div>
-                <h2 className='text-center text-3xl font-bold mt-10'>Customers Reviews ({reviews.length})</h2>
-                {
-                    reviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)
-                }
+            <div className='m-auto'>
+                <h2 className='text-center text-3xl font-bold my-12 py-3'>Customers Reviews ({reviews.length})</h2>
+                <div className='grid grid-cols-1 md:grid-cols-2 gap-7 content-center mx-10'>
+                    {
+                        reviews.map(review => <SingleReview key={review.id} review={review}></SingleReview>)
+                    }
+                </div>
             </div>
         </div>
     );
