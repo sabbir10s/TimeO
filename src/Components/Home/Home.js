@@ -12,7 +12,7 @@ const Home = () => {
             <div className='grid grid-cols-1 md:grid-cols-2 gap-x-8 justify-items-end items-center mx-10 pb-5 pt-8'>
                 <div>
                     <h1 className="text-5xl mb-3">Time with Perfection</h1>
-                    <small>Lots of people think whatever clock hands they have will fit a new clock movement. This is not usually true. The mounting holes are not well standardized. So, if you already have the clock hands, you can just choose a similar length and style from us. If you do not have hands, then a few simple rules should be followed so you can correctly choose what you need from us.</small>
+                    <small>Lots of people think whatever clock hands they have will fit a new clock movement. This is not usually true. The mounting holes are not well standardized. So, if you already have the clock hands, you can just choose a similar length and style from us. </small>
                 </div>
                 <div>
                     <img width="300px" src="https://m.media-amazon.com/images/I/71IocB4x93L._AC_SL1500_.jpg" alt="" />
